@@ -1,0 +1,14 @@
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\bin\Debug\net6.0\DAY2.exe
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\bin\Debug\net6.0\DAY2.deps.json
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\bin\Debug\net6.0\DAY2.runtimeconfig.json
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\bin\Debug\net6.0\DAY2.dll
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\bin\Debug\net6.0\DAY2.pdb
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\obj\Debug\net6.0\DAY2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\obj\Debug\net6.0\DAY2.AssemblyInfoInputs.cache
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\obj\Debug\net6.0\DAY2.AssemblyInfo.cs
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\obj\Debug\net6.0\DAY2.csproj.CoreCompileInputs.cache
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\obj\Debug\net6.0\DAY2.dll
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\obj\Debug\net6.0\refint\DAY2.dll
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\obj\Debug\net6.0\DAY2.pdb
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\obj\Debug\net6.0\DAY2.genruntimeconfig.cache
+D:\Michal\Programovani\AdventCoding\Day2\DAY2\obj\Debug\net6.0\ref\DAY2.dll

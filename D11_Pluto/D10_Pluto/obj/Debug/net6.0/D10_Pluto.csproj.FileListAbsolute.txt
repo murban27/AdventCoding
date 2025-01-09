@@ -1,0 +1,14 @@
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\obj\Debug\net6.0\D10_Pluto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\obj\Debug\net6.0\D10_Pluto.AssemblyInfoInputs.cache
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\obj\Debug\net6.0\D10_Pluto.AssemblyInfo.cs
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\obj\Debug\net6.0\D10_Pluto.csproj.CoreCompileInputs.cache
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\bin\Debug\net6.0\D10_Pluto.exe
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\bin\Debug\net6.0\D10_Pluto.deps.json
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\bin\Debug\net6.0\D10_Pluto.runtimeconfig.json
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\bin\Debug\net6.0\D10_Pluto.dll
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\bin\Debug\net6.0\D10_Pluto.pdb
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\obj\Debug\net6.0\D10_Pluto.dll
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\obj\Debug\net6.0\refint\D10_Pluto.dll
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\obj\Debug\net6.0\D10_Pluto.pdb
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\obj\Debug\net6.0\D10_Pluto.genruntimeconfig.cache
+D:\Michal\Programovani\AdventCoding\D10_Pluto\D10_Pluto\obj\Debug\net6.0\ref\D10_Pluto.dll
